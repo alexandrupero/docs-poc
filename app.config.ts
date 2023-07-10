@@ -13,10 +13,9 @@ export default defineAppConfig({
       },
     },
     github: {
-      dir: ".starters/default/content",
       branch: "main",
-      repo: "Docs",
-      owner: "shiftcollective-org",
+      repo: "docs-poc",
+      owner: "alexandrupero",
       edit: true,
     },
     aside: {
