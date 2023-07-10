@@ -10,6 +10,8 @@
     "lint": "eslint ."
   },
   "devDependencies": {
+    "@docsearch/css": "^3.5.1",
+    "@docsearch/js": "^3.5.1",
     "@nuxt-themes/docus": "^1.13.1",
     "@nuxt/devtools": "^0.6.7",
     "@nuxt/eslint-config": "^0.1.1",
